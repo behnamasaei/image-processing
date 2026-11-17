@@ -1,0 +1,7 @@
+﻿/.idea/
+/raw/
+/dataset
+/runs
+/classes.txt
+data.yaml
+yolo11n.pt
