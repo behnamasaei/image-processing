@@ -1,0 +1,37 @@
+type: yolo26_obb
+
+name: passport-yolo26-obb
+provider: Ultralytics
+
+display_name: Passport YOLO26x OBB
+
+model_path: /home/behnam/Repositories/image-processing/runs/obb/runs/passport/yolo26_n_v8/weights/best.onnx
+
+conf_threshold: 0.85
+max_det: 300
+
+classes:
+  - passport
+  - pass_id
+  - barcode
+  - pic
+  - type
+  - country_code
+  - sereis
+  - pass_no
+  - meli
+  - surname_en
+  - surname_fa
+  - name_en
+  - name_fa
+  - fname_en
+  - fname_fa
+  - bdate
+  - pdate
+  - sex
+  - shenasname
+  - atba_shenase
+  - dissuse
+  - dexpire
+  - mrz1
+  - mrz2

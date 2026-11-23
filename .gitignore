@@ -5,3 +5,12 @@
 /classes.txt
 data.yaml
 yolo11n.pt
+/crops
+/test1.jpg
+/test2.jpg
+/test3.jpg
+/test4.jpg
+/yolo11s.pt
+/yolo26n-obb.pt
+/yolo26s-obb.pt
+/yolo26x-obb.pt
