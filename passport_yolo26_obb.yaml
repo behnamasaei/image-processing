@@ -5,7 +5,7 @@ provider: Ultralytics
 
 display_name: Passport YOLO26x OBB
 
-model_path: /home/behnam/Repositories/image-processing/runs/obb/runs/passport/yolo26_n_v8/weights/best.onnx
+model_path: /home/behnam/Repositories/image-processing/runs/obb/runs/passport/yolo26_n_v11/weights/best.onnx
 
 conf_threshold: 0.85
 max_det: 300

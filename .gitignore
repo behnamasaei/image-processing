@@ -14,3 +14,7 @@ yolo11n.pt
 /yolo26n-obb.pt
 /yolo26s-obb.pt
 /yolo26x-obb.pt
+/dataset_pass_segment/
+/output/
+/yolo26n-seg.pt
+/yolo26n.pt
